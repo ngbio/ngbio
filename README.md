@@ -8,6 +8,6 @@
 
 [![An image showing your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-###Tổng quan hoạt động
+### Activity overview
 
-[![GitHub Activity Graph](https://activity-graph.pro/graph?username=ngbio&theme=xmas)](https://github.com/Ashutosh007/github-readme-activity-graph)
+<a href="https://git.io/streak-stats"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngbio&theme=monokai" alt="GitHub Profile Summary" /></a>
