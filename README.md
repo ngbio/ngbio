@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###Thống kê GitHub của tôi
+###Thống kê GitHub của tui
 
 [![An image showing your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
