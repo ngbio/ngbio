@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-
-
-[![An image showing your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![An image showing your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
