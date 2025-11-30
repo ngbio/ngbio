@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![An image showing your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ngbio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
