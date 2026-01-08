@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={ngbio}&theme={tokyonight}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngbio&theme=tokyonight&exclude={exclude}
 
 
 http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?ngbio={username}&tokyonight={theme_name}&exclude={exclude}
