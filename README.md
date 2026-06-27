@@ -13,11 +13,13 @@ I'm **Nguyễn Thanh Thuận** — a Software Engineering student from Ho Chi Mi
 
 <p align="left">
   <a href="mailto:ngthuan2502@gmail.com">
-    📧 Email
+    <img src="https://skillicons.dev/icons?i=gmail" width="24" align="center" />
+    &nbsp;ngthuan2502@gmail.com
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br><br>
   <a href="https://www.linkedin.com/in/thuận-nguyễn-2266b0361">
-    💼 LinkedIn
+    <img src="https://skillicons.dev/icons?i=linkedin" width="24" align="center" />
+    &nbsp;Nguyễn Thanh Thuận
   </a>
 </p>
 
