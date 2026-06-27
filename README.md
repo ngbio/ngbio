@@ -12,12 +12,13 @@ I'm **Nguyễn Thanh Thuận** — a Software Engineering student from Ho Chi Mi
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="mailto:ngthuan2502@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/thuận-nguyễn-2266b0361">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:ngthuan2502@gmail.com">
+    📧 Email
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thuận-nguyễn-2266b0361">
+    💼 LinkedIn
+  </a>
 </p>
 
 
