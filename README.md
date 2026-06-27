@@ -11,9 +11,15 @@ I'm **Nguyễn Thanh Thuận** — a Software Engineering student from Ho Chi Mi
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Thanh%20Thuận-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thuận-nguyễn-2266b0361)
+<p align="left">
+<a href="mailto:ngthuan2502@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/thuận-nguyễn-2266b0361">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-ngthuan2502%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngthuan2502@gmail.com)
 
 ## 🚀 Tech Stack
 
