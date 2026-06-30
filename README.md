@@ -48,12 +48,12 @@ I'm **Nguyễn Thanh Thuận** — a Software Engineering student from Ho Chi Mi
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <img height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="165"
