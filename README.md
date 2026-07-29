@@ -52,22 +52,19 @@ currently_learning:
 
 ## GitHub activity
 
-<div align="center">
+<p align="center">
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=ngbio&theme=tokyonight"
+       alt="Thuận's GitHub streak" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&hide_border=true&bg_color=070B16&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8">
-  <img width="49%" alt="Thuận's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0891B2&icon_color=4F46E5&text_color=475569">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&hide_border=true&bg_color=070B16&title_color=22D3EE&text_color=94A3B8">
-  <img width="49%" alt="Thuận's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=475569">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&hide_border=true&bg_color=070B16&title_color=22D3EE&text_color=94A3B8">
+    <img width="49%" alt="Thuận's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=475569">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ngbio&hide_border=true&background=070B16&stroke=22D3EE&ring=A78BFA&fire=34D399&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B">
-  <img width="100%" alt="Thuận's contribution streak" src="https://streak-stats.demolab.com?user=ngbio&hide_border=true&background=FFFFFF&stroke=0891B2&ring=4F46E5&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8">
-</picture>
-
-<sub>Thanks for stopping by — let's build something useful.</sub>
-
-</div>
+<p align="center">
+  <sub>Thanks for stopping by — let's build something useful.</sub>
+</p>
