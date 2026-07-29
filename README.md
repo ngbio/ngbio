@@ -24,8 +24,6 @@ location: Ho Chi Minh City, Vietnam
 education: Final-year Software Engineering student
 interests:
   - Backend and Full-Stack Development
-  - Cloud Computing
-  - DevOps
 currently_learning:
   - Java Spring Boot
   - Docker
