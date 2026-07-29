@@ -8,7 +8,7 @@
 
 ### Hello, I'm Thuận 👋
 
-Final-year Software Engineering student from Ho Chi Minh City, focused on backend development, cloud computing, and DevOps.
+Final-year Software Engineering student based in Ho Chi Minh City, aspiring to become a Full-stack Web Developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/thuận-nguyễn-2266b0361)
 [![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/ngbio)
