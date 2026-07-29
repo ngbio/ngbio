@@ -70,10 +70,10 @@
   <g class="row r3"><text x="480" y="196" class="label">Role</text><text x="660" y="196" class="value">Backend / Full-Stack Developer</text></g>
   <g class="row r4"><text x="480" y="231" class="label">Education</text><text x="660" y="231" class="value">Final-year Software Engineering</text></g>
   <g class="row r5"><text x="480" y="266" class="label">Languages</text><text x="660" y="266" class="value">Java · JavaScript · Python</text></g>
-  <g class="row r6"><text x="480" y="301" class="label">Backend</text><text x="660" y="301" class="value">Spring · Django · Flask</text></g>
-  <g class="row r7"><text x="480" y="336" class="label">Database</text><text x="660" y="336" class="value">MySQL</text></g>
-  <g class="row r8"><text x="480" y="371" class="label">DevOps</text><text x="660" y="371" class="value">Docker · AWS · GitHub</text></g>
-  <g class="row r9"><text x="480" y="406" class="label">Focus</text><text x="660" y="406" class="value">Cloud Computing · DevOps</text></g>
+  <g class="row r6"><text x="480" y="301" class="label">Frontend</text><text x="660" y="301" class="value" textLength="440" lengthAdjust="spacingAndGlyphs">HTML · CSS · JS · React.js · React Native · Bootstrap</text></g>
+  <g class="row r7"><text x="480" y="336" class="label">Backend</text><text x="660" y="336" class="value">Spring · Django · Flask</text></g>
+  <g class="row r8"><text x="480" y="371" class="label">Database</text><text x="660" y="371" class="value">MySQL</text></g>
+  <g class="row r9"><text x="480" y="406" class="label">Tools &amp; Platforms</text><text x="660" y="406" class="value">Git · Render · Cloudflare</text></g>
 
   <line x1="480" y1="442" x2="1110" y2="442" class="line"/>
   <text x="480" y="474" fill="#475569" font-size="14">Building reliable systems, one commit at a time.</text>
