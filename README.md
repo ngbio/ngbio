@@ -1,62 +1,73 @@
-# Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img width="100%" alt="Nguyễn Thanh Thuận — Software Engineering profile" src="./assets/hero-light.svg">
+</picture>
 
-I'm **Nguyễn Thanh Thuận** — a Software Engineering student from Ho Chi Minh City, Vietnam.
+<div align="center">
 
-## 👨‍💻 About Me
+### Hello, I'm Thuận 👋
 
-- 🎓 Final-year Software Engineering student
-- 💻 Passionate about Backend Development and Full-Stack Web Development
-- 🌱 Currently learning Java Spring Boot, Docker, AWS
-- 🚀 Interested in Cloud Computing and DevOps
+Final-year Software Engineering student from Ho Chi Minh City, focused on backend development, cloud computing, and DevOps.
 
-## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/thuận-nguyễn-2266b0361)
+[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/ngbio)
 
-<p align="left">
-  <a href="mailto:ngthuan2502@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="24" align="center" />
-    &nbsp;ngthuan2502@gmail.com
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/thuận-nguyễn-2266b0361">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="24" align="center" />
-    &nbsp;Nguyễn Thanh Thuận
-  </a>
-</p>
+</div>
 
+## About me
 
-## 🚀 Tech Stack
+```yaml
+name: Nguyễn Thanh Thuận
+email: ngthuan2502@gmail.com
+location: Ho Chi Minh City, Vietnam
+education: Final-year Software Engineering student
+interests:
+  - Backend and Full-Stack Development
+  - Cloud Computing
+  - DevOps
+currently_learning:
+  - Java Spring Boot
+  - Docker
+  - AWS
+```
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Tech stack
 
-### ⚙️ Backend & Frameworks
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<div align="center">
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=60A5FA)
+![Spring](https://img.shields.io/badge/Spring-0A101F?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Django](https://img.shields.io/badge/Django-0A101F?style=for-the-badge&logo=django&logoColor=34D399)
+![Flask](https://img.shields.io/badge/Flask-0A101F?style=for-the-badge&logo=flask&logoColor=F8FAFC)
+![MySQL](https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0A101F?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0A101F?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-### 🛠️ Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+</div>
 
-## 📊 GitHub Stats
+## GitHub activity
 
-<!-- <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p> -->
+<div align="center">
 
-<p align="center">
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=ngbio&theme=tokyonight" />
-</p>
-⭐ Thanks for visiting my profile!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&hide_border=true&bg_color=070B16&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8">
+  <img width="49%" alt="Thuận's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ngbio&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0891B2&icon_color=4F46E5&text_color=475569">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&hide_border=true&bg_color=070B16&title_color=22D3EE&text_color=94A3B8">
+  <img width="49%" alt="Thuận's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngbio&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=475569">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ngbio&hide_border=true&background=070B16&stroke=22D3EE&ring=A78BFA&fire=34D399&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B">
+  <img width="100%" alt="Thuận's contribution streak" src="https://streak-stats.demolab.com?user=ngbio&hide_border=true&background=FFFFFF&stroke=0891B2&ring=4F46E5&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8">
+</picture>
+
+<sub>Thanks for stopping by — let's build something useful.</sub>
+
+</div>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyễn Thanh Thuận — developer profile</title>
+  <desc id="desc">Animated terminal-style profile card for Nguyễn Thanh Thuận.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="35%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".55" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#111827"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .label { fill: #22d3ee; font-size: 15px; }
+      .value { fill: #f8fafc; font-size: 15px; font-weight: 600; }
+      .muted { fill: #64748b; font-size: 13px; }
+      .line { stroke: #1e293b; stroke-width: 1; }
+      .row { opacity: 0; animation: reveal .45s ease-out forwards; }
+      .r1 { animation-delay: .55s } .r2 { animation-delay: .72s }
+      .r3 { animation-delay: .89s } .r4 { animation-delay: 1.06s }
+      .r5 { animation-delay: 1.23s } .r6 { animation-delay: 1.40s }
+      .r7 { animation-delay: 1.57s } .r8 { animation-delay: 1.74s }
+      .r9 { animation-delay: 1.91s }
+      @keyframes reveal { from { opacity: 0; transform: translateX(-9px) } to { opacity: 1; transform: translateX(0) } }
+      @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-8px) } }
+      @keyframes spin { to { transform: rotate(360deg) } }
+      @keyframes blink { 50% { opacity: .18 } }
+      .float { animation: float 4s ease-in-out infinite; transform-origin: 250px 270px; }
+      .spin { animation: spin 13s linear infinite; transform-origin: 250px 270px; }
+      .blink { animation: blink 1.2s steps(1) infinite; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1176" height="516" rx="20" fill="#070b16" stroke="url(#border)" stroke-width="3"/>
+  <path d="M22 54H1158" stroke="#1e293b"/>
+  <circle cx="30" cy="28" r="6" fill="#ff5f57"/>
+  <circle cx="51" cy="28" r="6" fill="#febc2e"/>
+  <circle cx="72" cy="28" r="6" fill="#28c840"/>
+  <text x="590" y="33" text-anchor="middle" class="muted">ngthuan2502@gmail.com — ./profile.sh --live</text>
+
+  <g class="float">
+    <circle cx="250" cy="270" r="122" fill="#0b1222" stroke="#1e293b" stroke-width="2"/>
+    <circle cx="250" cy="270" r="98" fill="url(#orb)" opacity=".2" filter="url(#glow)"/>
+    <g class="spin">
+      <circle cx="250" cy="145" r="5" fill="#22d3ee"/>
+      <circle cx="375" cy="270" r="4" fill="#34d399"/>
+      <circle cx="250" cy="395" r="5" fill="#818cf8"/>
+      <circle cx="125" cy="270" r="4" fill="#f472b6"/>
+    </g>
+    <text x="250" y="257" text-anchor="middle" fill="#f8fafc" font-size="70" font-weight="800">NT</text>
+    <text x="250" y="290" text-anchor="middle" fill="#22d3ee" font-size="14" letter-spacing="4">SOFTWARE</text>
+    <text x="250" y="314" text-anchor="middle" fill="#94a3b8" font-size="13">ENGINEERING</text>
+  </g>
+  <text x="250" y="448" text-anchor="middle" fill="#64748b" font-size="12" letter-spacing="3">HO CHI MINH CITY · VIETNAM</text>
+
+  <text x="480" y="92" fill="#22d3ee" font-size="13" letter-spacing="3">SYSTEM.INFO</text>
+  <line x1="585" y1="88" x2="1110" y2="88" class="line"/>
+  <text x="1110" y="92" text-anchor="end" fill="#34d399" font-size="12" font-weight="700" class="blink">● ONLINE</text>
+
+  <g class="row r1"><text x="480" y="126" class="label">Name</text><text x="660" y="126" class="value">Nguyễn Thanh Thuận</text></g>
+  <g class="row r2"><text x="480" y="161" class="label">Email</text><text x="660" y="161" class="value">ngthuan2502@gmail.com</text></g>
+  <g class="row r3"><text x="480" y="196" class="label">Role</text><text x="660" y="196" class="value">Backend / Full-Stack Developer</text></g>
+  <g class="row r4"><text x="480" y="231" class="label">Education</text><text x="660" y="231" class="value">Final-year Software Engineering</text></g>
+  <g class="row r5"><text x="480" y="266" class="label">Languages</text><text x="660" y="266" class="value">Java · JavaScript · Python</text></g>
+  <g class="row r6"><text x="480" y="301" class="label">Backend</text><text x="660" y="301" class="value">Spring · Django · Flask</text></g>
+  <g class="row r7"><text x="480" y="336" class="label">Database</text><text x="660" y="336" class="value">MySQL</text></g>
+  <g class="row r8"><text x="480" y="371" class="label">DevOps</text><text x="660" y="371" class="value">Docker · AWS · GitHub</text></g>
+  <g class="row r9"><text x="480" y="406" class="label">Focus</text><text x="660" y="406" class="value">Cloud Computing · DevOps</text></g>
+
+  <line x1="480" y1="442" x2="1110" y2="442" class="line"/>
+  <text x="480" y="474" fill="#94a3b8" font-size="14">Building reliable systems, one commit at a time.</text>
+  <rect x="885" y="457" width="225" height="30" rx="15" fill="#0f2230" stroke="#22d3ee" opacity=".9"/>
+  <text x="997" y="477" text-anchor="middle" fill="#67e8f9" font-size="12">OPEN TO COLLABORATE</text>
+</svg>
